@@ -1,0 +1,61 @@
+
+/ip firewall address-list
+add address=c.whatsapp.net list=BLOQUEAR
+add address=c1.whatsapp.net list=BLOQUEAR
+add address=c2.whatsapp.net list=BLOQUEAR
+add address=c3.whatsapp.net list=BLOQUEAR
+add address=c4.whatsapp.net list=BLOQUEAR
+add address=c5.whatsapp.net list=BLOQUEAR
+add address=c6.whatsapp.net list=BLOQUEAR
+add address=c7.whatsapp.net list=BLOQUEAR
+add address=c8.whatsapp.net list=BLOQUEAR
+add address=c9.whatsapp.net list=BLOQUEAR
+add address=c10.whatsapp.net list=BLOQUEAR
+add address=e.whatsapp.net list=BLOQUEAR
+add address=e1.whatsapp.net list=BLOQUEAR
+add address=e2.whatsapp.net list=BLOQUEAR
+add address=e3.whatsapp.net list=BLOQUEAR
+add address=e4.whatsapp.net list=BLOQUEAR
+add address=e5.whatsapp.net list=BLOQUEAR
+add address=e6.whatsapp.net list=BLOQUEAR
+add address=e7.whatsapp.net list=BLOQUEAR
+add address=e8.whatsapp.net list=BLOQUEAR
+add address=e9.whatsapp.net list=BLOQUEAR
+add address=e10.whatsapp.net list=BLOQUEAR
+add address=e11.whatsapp.net list=BLOQUEAR
+add address=e12.whatsapp.net list=BLOQUEAR
+add address=e13.whatsapp.net list=BLOQUEAR
+add address=e14.whatsapp.net list=BLOQUEAR
+add address=e15.whatsapp.net list=BLOQUEAR
+add address=e16.whatsapp.net list=BLOQUEAR
+add address=e17.whatsapp.net list=BLOQUEAR
+add address=e18.whatsapp.net list=BLOQUEAR
+add address=e19.whatsapp.net list=BLOQUEAR
+add address=e20.whatsapp.net list=BLOQUEAR
+add address=s.whatsapp.net list=BLOQUEAR
+add address=s1.whatsapp.net list=BLOQUEAR
+add address=s2.whatsapp.net list=BLOQUEAR
+add address=s3.whatsapp.net list=BLOQUEAR
+add address=s4.whatsapp.net list=BLOQUEAR
+add address=s5.whatsapp.net list=BLOQUEAR
+add address=s6.whatsapp.net list=BLOQUEAR
+add address=s7.whatsapp.net list=BLOQUEAR
+add address=s8.whatsapp.net list=BLOQUEAR
+add address=s9.whatsapp.net list=BLOQUEAR
+add address=s10.whatsapp.net list=BLOQUEAR
+
+
+
+
+
+
+s1.whatsapp.net
+s2.whatsapp.net
+s3.whatsapp.net // (todas as coisas c são para os apertos de mão - > ^^ mais de 443 ou 5222)
+s4.whatsapp.net
+s5.whatsapp.net
+s6.whatsapp.net
+s7.whatsapp.net
+s8.whatsapp.net
+s9.whatsapp.net
+s10.whatsapp.net
